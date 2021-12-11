@@ -15,7 +15,7 @@
 }
 
 .p-list2{
-    margin-left: 260px;
+    margin-left: -35px;
     
 }
 form {
@@ -108,17 +108,17 @@ button[type="submit"]:active, .button:active {
 }
 
 .p-list{
-    /* text USA N KOREA */
+    
     background-color: #00aeef;
     height: 100px;
     width: 1200px;
     font-size: 20px;
-    margin-left: 500px;
+    margin-left: 200px;
 
 }
 .price-list{
-    margin-left:140px;
-    text-align: center;
+    margin-left:240px;
+   
     font-size: 38px;
     
 }
